@@ -1,4 +1,6 @@
-﻿// Console.WriteLine("Введите число");
+﻿// ДЗ 04.07
+
+// Console.WriteLine("Введите число");
 // int numberA = Convert.ToInt32(Console.ReadLine());
 // Console.WriteLine("Введите число");
 // int numberB = Convert.ToInt32(Console.ReadLine());  
