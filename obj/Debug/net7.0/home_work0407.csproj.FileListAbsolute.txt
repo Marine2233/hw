@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\obj\Debug\net7.0\home_work0407.csproj.AssemblyReference.cache
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\obj\Debug\net7.0\home_work0407.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\obj\Debug\net7.0\home_work0407.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\obj\Debug\net7.0\home_work0407.AssemblyInfo.cs
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\obj\Debug\net7.0\home_work0407.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\bin\Debug\net7.0\home_work0407.exe
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\bin\Debug\net7.0\home_work0407.deps.json
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\bin\Debug\net7.0\home_work0407.runtimeconfig.json
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\bin\Debug\net7.0\home_work0407.dll
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\bin\Debug\net7.0\home_work0407.pdb
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\obj\Debug\net7.0\home_work0407.dll
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\obj\Debug\net7.0\refint\home_work0407.dll
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\obj\Debug\net7.0\home_work0407.pdb
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\obj\Debug\net7.0\home_work0407.genruntimeconfig.cache
+C:\Users\Marina\Desktop\home_work1\sem1\home_work0407\obj\Debug\net7.0\ref\home_work0407.dll
