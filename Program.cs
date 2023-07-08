@@ -5,11 +5,10 @@
 // трёхзначное число и на выходе показывает 
 // вторую цифру этого числа.
 
-// Console.WriteLine("Введите число :");
+// Console.WriteLine("Введите трехзначное число :");  
 // int number = Convert.ToInt32(Console.ReadLine());  
-
-// int result = (number / 10) % 10;  
-// Console.WriteLine(result);
+// int num = (number/10) % 10;   
+// Console.WriteLine(num);
 
 
 
@@ -19,17 +18,15 @@
 
 // Console.WriteLine("Введите трехзначное число :");  
 // int number = Convert.ToInt32(Console.ReadLine());  
-// int num = number % 10; 
-
-//  if (num == 0)
-//  Console.WriteLine("Повторите попытку");
-
-// else   
-// Console.WriteLine(num);
-
-// PS.(как написать программу так,чтобы это работало и с 
-// большими цыфрами , или как ограничить кол-во вводных
-// цыфр пользователем?)
+// int num = number % 10;  
+// int num1 = (number / 100) % 10;  
+// {
+// Console.WriteLine("третье число формула 1 -"+num);
+// }
+// {
+//     Console.WriteLine("третье число формула 2 -"+num1);
+// }
+// PS.не понимаю как записать условие
 
 
 
@@ -63,3 +60,4 @@
 
 // else 
 // Console.WriteLine("Такого дня недели нет");
+
